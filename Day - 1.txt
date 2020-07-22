@@ -1,0 +1,12 @@
+QUESTION 1:   What is Python? What are the ways to install python in PC?
+ANSWER    :   Python is general-purpose high-level language,and it an interpreted, object-oriented which is easy to read and write. Developed by Guido van Rossum in 1991.
+              Mainly there 2 ways to install Python in any PC 
+              --Install Python interpreter from python.org and install any python IDE or text editor and start writing programs.
+              --Install Anaconda from anaconda.com and start writing in JupyterNotebook as anaconda comes with pre-insattled python packeges.
+ 
+Question 2: What are Code Environments ? Types ?
+Answer    : Code Environment is a type of place where one can write and compile code and see corresponding outputs.
+              There are mainly 3 types  --Test Editors  
+                                        --Full IDE's
+                                        --Notebook Environment
+
